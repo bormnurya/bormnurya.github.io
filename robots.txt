@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://bormnurya.github.io/sitemap/sitemap.txt
